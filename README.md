@@ -20,3 +20,5 @@ Usage
 4) Add Admin-Roles with MsSql from "AspNetUserRoles" Table
 5) Click on "Login"
 6) Login as "Admin"
+
+![Picture2](https://github.com/TahaOzberber/StokEkstresiWebMVC/assets/29777367/c38b1da5-c1d1-41b5-bb12-e2925301868c)
