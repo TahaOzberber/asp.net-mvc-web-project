@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GcflhWRqOKdaNIRVaDoZQwPCXJFshfFy9CbpptmEDJZDZaS1uj1KY1yKqOflvCbQ08pphQEvVXyvTbIu0fKwIA==",
+  "dgSpecHash": "WAu0EkOE23MZh+LRq63/RxFXrNi/ZWjsh+yA2080FMCeOTWwITw2FYeOr39sXZlswQ6Osi82jg7qN8YqMbGcKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Revek\\source\\repos\\WebProjectMVC\\WebProjectMVC.csproj",
+  "projectFilePath": "C:\\Users\\Revek\\OneDrive\\Belgeler\\GitHub\\asp.net-mvc-web-project\\WebProjectMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Revek\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Revek\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

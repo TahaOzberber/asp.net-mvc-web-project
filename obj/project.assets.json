@@ -8724,11 +8724,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Revek\\source\\repos\\WebProjectMVC\\WebProjectMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Revek\\OneDrive\\Belgeler\\GitHub\\asp.net-mvc-web-project\\WebProjectMVC.csproj",
       "projectName": "WebProjectMVC",
-      "projectPath": "C:\\Users\\Revek\\source\\repos\\WebProjectMVC\\WebProjectMVC.csproj",
+      "projectPath": "C:\\Users\\Revek\\OneDrive\\Belgeler\\GitHub\\asp.net-mvc-web-project\\WebProjectMVC.csproj",
       "packagesPath": "C:\\Users\\Revek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Revek\\source\\repos\\WebProjectMVC\\obj\\",
+      "outputPath": "C:\\Users\\Revek\\OneDrive\\Belgeler\\GitHub\\asp.net-mvc-web-project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Revek\\AppData\\Roaming\\NuGet\\NuGet.Config",
